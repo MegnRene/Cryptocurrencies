@@ -1,5 +1,7 @@
 # Cryptocurrencies
 
+Cryptocurrencies grouped for classification system. 
+
 * Elbow vurve to find the best value for K
 
 ![image](https://user-images.githubusercontent.com/98067116/179154592-aefbcdb0-b5e0-4f32-8a8a-2b5504a97f3f.png)
